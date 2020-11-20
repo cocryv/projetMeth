@@ -1,2 +1,2 @@
 # projetMeth
-Projet methodo
+Projet méthodologie de production d'application
