@@ -6,7 +6,7 @@ function application_tva($prix_produit)
     if($prix_produit > 0)
     {
         $tva = 0.20;
-        return $prix_produit * $tva;
+        return $prix_produit + $prix_produit * $tva;
     }
     return NULL;
 }

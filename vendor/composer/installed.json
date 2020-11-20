@@ -70,7 +70,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../../../../Desktop/projetMeth/vendor/doctrine/instantiator"
+            "install-path": "../doctrine/instantiator"
         },
         {
             "name": "myclabs/deep-copy",
@@ -131,7 +131,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../../../../Desktop/projetMeth/vendor/myclabs/deep-copy"
+            "install-path": "../myclabs/deep-copy"
         },
         {
             "name": "phar-io/manifest",
@@ -193,7 +193,7 @@
                 "issues": "https://github.com/phar-io/manifest/issues",
                 "source": "https://github.com/phar-io/manifest/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phar-io/manifest"
+            "install-path": "../phar-io/manifest"
         },
         {
             "name": "phar-io/version",
@@ -247,7 +247,7 @@
                 "issues": "https://github.com/phar-io/version/issues",
                 "source": "https://github.com/phar-io/version/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phar-io/version"
+            "install-path": "../phar-io/version"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -303,7 +303,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.x"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpdocumentor/reflection-common"
+            "install-path": "../phpdocumentor/reflection-common"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -362,7 +362,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpdocumentor/reflection-docblock"
+            "install-path": "../phpdocumentor/reflection-docblock"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -414,7 +414,7 @@
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
                 "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.4.0"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpdocumentor/type-resolver"
+            "install-path": "../phpdocumentor/type-resolver"
         },
         {
             "name": "phpspec/prophecy",
@@ -484,7 +484,7 @@
                 "issues": "https://github.com/phpspec/prophecy/issues",
                 "source": "https://github.com/phpspec/prophecy/tree/1.12.1"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpspec/prophecy"
+            "install-path": "../phpspec/prophecy"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -554,7 +554,7 @@
                 "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
                 "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/7.0.10"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/php-code-coverage"
+            "install-path": "../phpunit/php-code-coverage"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -611,7 +611,7 @@
                 "issues": "https://github.com/sebastianbergmann/php-file-iterator/issues",
                 "source": "https://github.com/sebastianbergmann/php-file-iterator/tree/2.0.2"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/php-file-iterator"
+            "install-path": "../phpunit/php-file-iterator"
         },
         {
             "name": "phpunit/php-text-template",
@@ -659,7 +659,7 @@
                 "issues": "https://github.com/sebastianbergmann/php-text-template/issues",
                 "source": "https://github.com/sebastianbergmann/php-text-template/tree/1.2.1"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/php-text-template"
+            "install-path": "../phpunit/php-text-template"
         },
         {
             "name": "phpunit/php-timer",
@@ -715,7 +715,7 @@
                 "issues": "https://github.com/sebastianbergmann/php-timer/issues",
                 "source": "https://github.com/sebastianbergmann/php-timer/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/php-timer"
+            "install-path": "../phpunit/php-timer"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -772,7 +772,7 @@
                 "source": "https://github.com/sebastianbergmann/php-token-stream/tree/3.1.1"
             },
             "abandoned": true,
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/php-token-stream"
+            "install-path": "../phpunit/php-token-stream"
         },
         {
             "name": "phpunit/phpunit",
@@ -872,7 +872,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../../../../Desktop/projetMeth/vendor/phpunit/phpunit"
+            "install-path": "../phpunit/phpunit"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -924,7 +924,7 @@
                 "issues": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/issues",
                 "source": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/code-unit-reverse-lookup"
+            "install-path": "../sebastian/code-unit-reverse-lookup"
         },
         {
             "name": "sebastian/comparator",
@@ -995,7 +995,7 @@
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
                 "source": "https://github.com/sebastianbergmann/comparator/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/comparator"
+            "install-path": "../sebastian/comparator"
         },
         {
             "name": "sebastian/diff",
@@ -1058,7 +1058,7 @@
                 "issues": "https://github.com/sebastianbergmann/diff/issues",
                 "source": "https://github.com/sebastianbergmann/diff/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/diff"
+            "install-path": "../sebastian/diff"
         },
         {
             "name": "sebastian/environment",
@@ -1118,7 +1118,7 @@
                 "issues": "https://github.com/sebastianbergmann/environment/issues",
                 "source": "https://github.com/sebastianbergmann/environment/tree/4.2.3"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/environment"
+            "install-path": "../sebastian/environment"
         },
         {
             "name": "sebastian/exporter",
@@ -1192,7 +1192,7 @@
                 "issues": "https://github.com/sebastianbergmann/exporter/issues",
                 "source": "https://github.com/sebastianbergmann/exporter/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/exporter"
+            "install-path": "../sebastian/exporter"
         },
         {
             "name": "sebastian/global-state",
@@ -1253,7 +1253,7 @@
                 "issues": "https://github.com/sebastianbergmann/global-state/issues",
                 "source": "https://github.com/sebastianbergmann/global-state/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/global-state"
+            "install-path": "../sebastian/global-state"
         },
         {
             "name": "sebastian/object-enumerator",
@@ -1307,7 +1307,7 @@
                 "issues": "https://github.com/sebastianbergmann/object-enumerator/issues",
                 "source": "https://github.com/sebastianbergmann/object-enumerator/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/object-enumerator"
+            "install-path": "../sebastian/object-enumerator"
         },
         {
             "name": "sebastian/object-reflector",
@@ -1359,7 +1359,7 @@
                 "issues": "https://github.com/sebastianbergmann/object-reflector/issues",
                 "source": "https://github.com/sebastianbergmann/object-reflector/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/object-reflector"
+            "install-path": "../sebastian/object-reflector"
         },
         {
             "name": "sebastian/recursion-context",
@@ -1419,7 +1419,7 @@
                 "issues": "https://github.com/sebastianbergmann/recursion-context/issues",
                 "source": "https://github.com/sebastianbergmann/recursion-context/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/recursion-context"
+            "install-path": "../sebastian/recursion-context"
         },
         {
             "name": "sebastian/resource-operations",
@@ -1468,7 +1468,7 @@
                 "issues": "https://github.com/sebastianbergmann/resource-operations/issues",
                 "source": "https://github.com/sebastianbergmann/resource-operations/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/resource-operations"
+            "install-path": "../sebastian/resource-operations"
         },
         {
             "name": "sebastian/type",
@@ -1521,7 +1521,7 @@
                 "issues": "https://github.com/sebastianbergmann/type/issues",
                 "source": "https://github.com/sebastianbergmann/type/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/type"
+            "install-path": "../sebastian/type"
         },
         {
             "name": "sebastian/version",
@@ -1571,7 +1571,7 @@
                 "issues": "https://github.com/sebastianbergmann/version/issues",
                 "source": "https://github.com/sebastianbergmann/version/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/sebastian/version"
+            "install-path": "../sebastian/version"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -1653,7 +1653,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../../../../Desktop/projetMeth/vendor/symfony/polyfill-ctype"
+            "install-path": "../symfony/polyfill-ctype"
         },
         {
             "name": "theseer/tokenizer",
@@ -1706,7 +1706,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../../../../Desktop/projetMeth/vendor/theseer/tokenizer"
+            "install-path": "../theseer/tokenizer"
         },
         {
             "name": "webmozart/assert",
@@ -1762,7 +1762,7 @@
                 "issues": "https://github.com/webmozart/assert/issues",
                 "source": "https://github.com/webmozart/assert/tree/master"
             },
-            "install-path": "../../../../Desktop/projetMeth/vendor/webmozart/assert"
+            "install-path": "../webmozart/assert"
         }
     ],
     "dev": true,
