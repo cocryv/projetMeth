@@ -12,3 +12,10 @@ php:
   image: php:7-fpm
   volumes: 
     - ./code:/var/www/html
+
+phpunit:
+  image: php:7.4-cli
+  volumes:
+    - .:/app
+  working_dir: /app
+  entrypoint: vendor/bin/phpunit
